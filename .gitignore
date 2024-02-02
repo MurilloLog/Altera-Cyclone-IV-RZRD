@@ -1,0 +1,7 @@
+# Ignore Quartus building data
+db/
+incremental_db/
+output_files/
+
+*.v.bak
+*.bak
