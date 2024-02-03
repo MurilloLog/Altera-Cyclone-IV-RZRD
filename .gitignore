@@ -1,7 +1,18 @@
 # Ignore Quartus building data
+# Global data
+/*/db/
+/*/incremental_db/
+/*/output_files/
+/*/simulation/
+
+/*/.v.bak
+/*/.bak
+
+# Local data
 db/
 incremental_db/
 output_files/
+/simulation/
 
 *.v.bak
 *.bak
