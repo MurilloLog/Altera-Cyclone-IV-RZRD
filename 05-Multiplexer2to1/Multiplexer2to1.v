@@ -14,11 +14,11 @@
  * 	s <- PIN_91
  *
  * Buttons:
- * x <- PIN_88
- * y <- PIN_89
+ * 	x <- PIN_88
+ * 	y <- PIN_89
 
  * LEDs:
- * m <- PIN_87
+ * 	m <- PIN_87
  */
 
 module Multiplexer2to1(x, y, s, m);
